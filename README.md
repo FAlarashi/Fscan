@@ -4,6 +4,7 @@ A simple port scanner designed to help users identify open ports on a target IP 
 ## Features:
 
  - Flexible Scanning Options: Choose between Scanning all ports, Common ports (dictionary recon), or even specify a custom range of ports.
+ - Fast Results: Scanning multiple ports simultaneously for faster results.
  - Port Database: Includes a predefined dictionary of common ports and their associated services for easy identification.
  - Simple Interface: The script provides a user-friendly interface with clear prompts and options.
 
@@ -19,6 +20,8 @@ python Fscan.py
  - Enter Target IP: Enter the IP address of the target you want to scan.
  - Choose Scan Type: Select the desired scan type:
  - Depending on your choice, follow the prompts to complete the scanning process.
+ ### Note
+ - To cancel the process press ctrl+c twice
 
 
 ## Important Note:
