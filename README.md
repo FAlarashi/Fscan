@@ -9,7 +9,7 @@ A simple port scanner designed to help users identify open ports on a target IP 
  - Simple Interface: The script provides a user-friendly interface with clear prompts and options.
 
 
-## Installation: 
+## Usage: 
 - Ensure you have Python installed on your system.
 - Download Script: Download the Python script (Fscan.py) to your local machine.
 - Execute Script: Run the script using the following command:
